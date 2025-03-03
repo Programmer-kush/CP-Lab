@@ -87,5 +87,5 @@ int main() {
         printf("%d ", arr[i]);
     printf("\n");
 
-    return 4;
+    return 0
 }
